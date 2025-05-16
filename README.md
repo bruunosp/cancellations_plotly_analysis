@@ -34,7 +34,6 @@ Existem duas maneiras de rodar o código:
 cancellations_plotly_analysis/
 │
 ├── database/
-│   ├── cancellations_examples.csv          # Banco de dados de cancelamento reduzido (mais leve)
 │   └── cancellations.csv                   # Banco de dados de cancelamento completo
 │
 ├── docs/
