@@ -2,14 +2,18 @@
 
 Este projeto realiza uma análise visual de dados de cancelamentos de clientes, com o objetivo de identificar padrões e possíveis motivos para os cancelamentos. Através de gráficos interativos gerados com Plotly Express, é possível obter insights valiosos que auxiliam na tomada de decisões estratégicas para reduzir os cancelamentos e melhorar a retenção de clientes.
 
+
 ---
+
 
 ## 📌 Dependências utilizadas
 
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly.express](https://plotly.com/python/plotly-express/)
 
+
 ---
+
 
 ## ⚙️ Installation and Setup
 
@@ -19,6 +23,7 @@ Este projeto realiza uma análise visual de dados de cancelamentos de clientes, 
 
 ```bash
 git lfs install
+git lfs pull
 ```
 
 Instale as dependências:
@@ -27,7 +32,9 @@ Instale as dependências:
 pip install -r requirement.txt
 ```
 
+
 ---
+
 
 ## ▶️ Running the Project
 
@@ -36,7 +43,9 @@ Existem duas maneiras de rodar o código:
     2. Rodar tudo de uma vez clicando em "RUN ALL" no topo da tela
     [img](./Docs/run-all-buttom.png)
 
+
 ---
+
 
 ## 📁 Project Structure
 
@@ -63,12 +72,16 @@ cancellations_plotly_analysis/
 
 ```
 
+
 ---
+
 
 ## 🙋‍♂️ Author
 Projeto criado durante a Jornada Python da [Hashtag Treinamentos](https://portalhashtag.com/). Repositório mantido por Bruno Felipe Passareli.
 
+
 ---
+
 
 ## 🧠 Future Improvements
 
@@ -79,6 +92,8 @@ Projeto criado durante a Jornada Python da [Hashtag Treinamentos](https://portal
 - Executar o código com orientação a objeto, melhorando a organização
 - Visualizar os gráficos em um navegador
 
+
 ---
+
 
 Sinta-se livre para contribuir ou deixar uma ⭐ se achou útil!
