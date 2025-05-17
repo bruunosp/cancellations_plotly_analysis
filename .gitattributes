@@ -1,2 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
 database/cancellations.csv filter=lfs diff=lfs merge=lfs -text
 scripts/cancelation_dashboard.ipynb filter=lfs diff=lfs merge=lfs -text

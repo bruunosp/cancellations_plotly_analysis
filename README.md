@@ -4,22 +4,32 @@ Este projeto realiza uma análise visual de dados de cancelamentos de clientes, 
 
 ---
 
-### 📌 Dependências utilizadas
+## 📌 Dependências utilizadas
 
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly.express](https://plotly.com/python/plotly-express/)
 
 ---
 
-### ⚙️ Installation and Setup
+## ⚙️ Installation and Setup
+
+### ⚠️ IMPORTANTE:
+
+**Instale a extensão Git LFS (Large FIle Storage) para conseguir importar o script e a base de dados!!!**
+
+```bash
+git lfs install
+```
+
 Instale as dependências:
+
 ```bash
 pip install -r requirement.txt
 ```
 
 ---
 
-### ▶️ Running the Project
+## ▶️ Running the Project
 
 Existem duas maneiras de rodar o código:
     1. Rodar uma célular de cada vez, evitando que contenha erros 
@@ -28,7 +38,7 @@ Existem duas maneiras de rodar o código:
 
 ---
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 ``` bash
 cancellations_plotly_analysis/
@@ -55,12 +65,12 @@ cancellations_plotly_analysis/
 
 ---
 
-### 🙋‍♂️ Author
+## 🙋‍♂️ Author
 Projeto criado durante a Jornada Python da [Hashtag Treinamentos](https://portalhashtag.com/). Repositório mantido por Bruno Felipe Passareli.
 
 ---
 
-### 🧠 Future Improvements
+## 🧠 Future Improvements
 
 - Trazer os a base de dados de um banco de dados via API
 - Permitir que o usuário escolha o tipo de dados que ele gostaria de analisar
